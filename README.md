@@ -1,6 +1,6 @@
 # Hello Project FakhriMF
  Tugas Wawasan Global TIK IF-44-GAB01 [DTO]
  
- Untuk memenuhi Tugas WGTIK Week-3, saya upload file berekstensi.md ini
+ Untuk memenuhi Tugas WGTIK Week-3, saya upload file berekstensi .txt
  
  Fakhri Maulana Falah - 1301202117
